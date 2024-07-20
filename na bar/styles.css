@@ -1,0 +1,38 @@
+body{
+    /*background-image: url(/donald-martinez-Jfghc6MGpt0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: none;*/
+}
+
+.responsive s{
+    font-size: 10px;
+}
+
+.text{
+    max-width:40vw;
+    padding: 30px;
+    top:10vw;
+    left:1vw;
+   
+}
+
+#explore{
+    top:8vw;
+    left:85vw
+}
+
+h1{
+    font-family: 'Raleway Dots', sans-serif;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    color: white;
+}
